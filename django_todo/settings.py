@@ -26,7 +26,7 @@ SECRET_KEY = 'yk2%#g*-%_g%7ujh+t0*da(0^ceesb*)4_eb-6t=(oyl^96ks)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['learning-django-part-2.herokuapp.com']
 
 
 # Application definition
